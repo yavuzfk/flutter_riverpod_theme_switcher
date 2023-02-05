@@ -1,16 +1,7 @@
-# riverpod_example
+# Flutter Riverpod'a İlk Bakış
 
-A new Flutter project.
+Bu repo medium da paylaştığım flutter da riverpod'a ilk bakış yazısında anlatılan theme swither örneğini içermektedir.
+Medium yazısına aşağıdaki linkten erişebilirsiniz:
+- [Flutter-Riverpod'a İlk Bakış](https://medium.com/@yavuzfurkank/flutter-riverpoda-i%CC%87lk-bak%C4%B1%C5%9F-ec152087e4be)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![small video](https://user-images.githubusercontent.com/17355685/216811321-5ca892ac-ceb9-447a-9618-a6f40640b97f.gif)
